@@ -45,6 +45,7 @@ func (c *Client) doGetRequest(endpoint string, v interface{}) (interface{}, erro
 	}
 
 	bodyText, err := ioutil.ReadAll(resp.Body)
+	defer resp.Body.Close()
 	if err != nil {
 		return nil, err
 	}
