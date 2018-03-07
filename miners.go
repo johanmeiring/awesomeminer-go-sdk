@@ -28,7 +28,7 @@ type group struct {
 // Miner contains the result of individual miners in MinersResult, and also the
 // result of an API call to the "miner" endpoint. e.g. GET http://mypc:17790/api/miners/{id}
 type Miner struct {
-	ID             string       `json:"id"`
+	ID             int          `json:"id"`
 	Name           string       `json:"name"`
 	GroupID        int          `json:"groupId"`
 	Pool           string       `json:"pool"`
