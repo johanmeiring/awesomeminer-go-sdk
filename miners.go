@@ -30,6 +30,7 @@ type group struct {
 type Miner struct {
 	ID             int          `json:"id"`
 	Name           string       `json:"name"`
+	Hostname       string       `json:"hostname"`
 	GroupID        int          `json:"groupId"`
 	Pool           string       `json:"pool"`
 	Temperature    string       `json:"temperature"`
