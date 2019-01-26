@@ -1,6 +1,6 @@
 # Awesome Miner Go SDK
 
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-round)](https://godoc.org/github.com/johanmeiring/awesomeminer-go-sdk) [![Go Report Card](https://goreportcard.com/badge/github.com/johanmeiring/awesomeminer-go-sdk)](https://goreportcard.com/report/github.com/johanmeiring/awesomeminer-go-sdk) [![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-round)](https://github.com/johanmeiring/awesomeminer-go-sdk/blob/master/LICENSE) [![Build Status](https://travis-ci.org/johanmeiring/awesomeminer-go-sdk.svg?branch=master)](https://travis-ci.org/johanmeiring/awesomeminer-go-sdk)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-round)](https://godoc.org/github.com/johanmeiring/awesomeminer-go-sdk) [![Go Report Card](https://goreportcard.com/badge/github.com/johanmeiring/awesomeminer-go-sdk)](https://goreportcard.com/report/github.com/johanmeiring/awesomeminer-go-sdk) [![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-round)](https://github.com/johanmeiring/awesomeminer-go-sdk/blob/master/LICENSE) [![Build Status](https://travis-ci.com/johanmeiring/awesomeminer-go-sdk.svg?branch=master)](https://travis-ci.com/johanmeiring/awesomeminer-go-sdk)
 
 This Go package provides a wrapper for the [Awesome Miner API](http://www.awesomeminer.com/help/api.aspx).
 
